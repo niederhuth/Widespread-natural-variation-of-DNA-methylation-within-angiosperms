@@ -1,7 +1,7 @@
 # Widespread-natural-variation-of-DNA-methylation-within-angiosperms
-Code and data used in the paper "Widespread natural variation of DNA methylation within angiosperms" (Niederhuth et al. 2016, Genome Biology)
+Code and data used in the paper "Widespread natural variation of DNA methylation within angiosperms" (Niederhuth et al. 2016, Genome Biology) https://github.com/niederhuth/Widespread-natural-variation-of-DNA-methylation-within-angiosperms
 
-###Description of folders and files
+### Description of folders and files
 
 * Final_draft.pdf: The final draft of the manuscript.
 
